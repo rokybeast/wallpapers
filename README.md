@@ -1,6 +1,6 @@
 # 🖼️ Wallpapers
 
-> A collection of **32** wallpapers.
+> A collection of **39** wallpapers.
 
 | Preview | Name | Preview | Name | Preview | Name |
 | :---: | :--- | :---: | :--- | :---: | :--- |
@@ -12,10 +12,12 @@
 | <img src="a_rocket_launching_in_the_sky.png" width="300"/> | `a_rocket_launching_in_the_sky.png` | <img src="a_room_with_a_large_window_and_a_piano_keyboard_and_a_large_fire.jpg" width="300"/> | `a_room_with_a_large_window_and_a_piano_keyboard_and_a_large_fire.jpg` | <img src="a_snowy_mountain_with_clouds_above.jpg" width="300"/> | `a_snowy_mountain_with_clouds_above.jpg` |
 | <img src="b-312.jpg" width="300"/> | `b-312.jpg` | <img src="b-356.jpg" width="300"/> | `b-356.jpg` | <img src="b-446.jpg" width="300"/> | `b-446.jpg` |
 | <img src="b-726.jpg" width="300"/> | `b-726.jpg` | <img src="b-797.jpg" width="300"/> | `b-797.jpg` | <img src="b-821.jpg" width="300"/> | `b-821.jpg` |
-| <img src="dexter_blood_spatter.jpg" width="300"/> | `dexter_blood_spatter.jpg` | <img src="explorer_green_day.jpg" width="300"/> | `explorer_green_day.jpg` | <img src="G5uBmitWkAAyk8s.jpg" width="300"/> | `G5uBmitWkAAyk8s.jpg` |
-| <img src="house-garden.png" width="300"/> | `house-garden.png` | <img src="joyboy.png" width="300"/> | `joyboy.png` | <img src="my-neighbor-totoro-sunflowers.png" width="300"/> | `my-neighbor-totoro-sunflowers.png` |
-| <img src="pokemon_games_rooms_combined.png" width="300"/> | `pokemon_games_rooms_combined.png` | <img src="south_park_squared.jpg" width="300"/> | `south_park_squared.jpg` | | |
+| <img src="blackhole.png" width="300"/> | `blackhole.png` | <img src="bluish-folds.png" width="300"/> | `bluish-folds.png` | <img src="dexter_blood_spatter.jpg" width="300"/> | `dexter_blood_spatter.jpg` |
+| <img src="explorer_green_day.jpg" width="300"/> | `explorer_green_day.jpg` | <img src="G5uBmitWkAAyk8s.jpg" width="300"/> | `G5uBmitWkAAyk8s.jpg` | <img src="house-garden.png" width="300"/> | `house-garden.png` |
+| <img src="joyboy.png" width="300"/> | `joyboy.png` | <img src="minimal_landscape.jpg" width="300"/> | `minimal_landscape.jpg` | <img src="my-neighbor-totoro-sunflowers.png" width="300"/> | `my-neighbor-totoro-sunflowers.png` |
+| <img src="night-mounts.png" width="300"/> | `night-mounts.png` | <img src="pokemon_games_rooms_combined.png" width="300"/> | `pokemon_games_rooms_combined.png` | <img src="sonoma.jpeg" width="300"/> | `sonoma.jpeg` |
+| <img src="south_park_squared.jpg" width="300"/> | `south_park_squared.jpg` | <img src="this-wallpaper-is-not-available.png" width="300"/> | `this-wallpaper-is-not-available.png` | <img src="ventura.jpg" width="300"/> | `ventura.jpg` |
 
 ---
 
-*auto-generated on 2026-05-12 16:38:05.*
+*auto-generated on 2026-05-20 18:27:11.*
