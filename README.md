@@ -1,6 +1,6 @@
 # 🖼️ Wallpapers
 
-> A collection of **64** wallpapers.
+> A collection of **67** wallpapers.
 
 | Preview | Name | Preview | Name | Preview | Name |
 | :---: | :--- | :---: | :--- | :---: | :--- |
@@ -14,12 +14,13 @@
 | <img src="b-446.jpg" width="300"/> | `b-446.jpg` | <img src="b-726.jpg" width="300"/> | `b-726.jpg` | <img src="b-797.jpg" width="300"/> | `b-797.jpg` |
 | <img src="b-821.jpg" width="300"/> | `b-821.jpg` | <img src="blackhole.png" width="300"/> | `blackhole.png` | <img src="blue-waves.png" width="300"/> | `blue-waves.png` |
 | <img src="bluish-folds.png" width="300"/> | `bluish-folds.png` | <img src="bmw.jpg" width="300"/> | `bmw.jpg` | <img src="circuits.png" width="300"/> | `circuits.png` |
-| <img src="dexter_blood_spatter.jpg" width="300"/> | `dexter_blood_spatter.jpg` | <img src="explorer_green_day.jpg" width="300"/> | `explorer_green_day.jpg` | <img src="FormulaOne_Hamilton_3.jpg" width="300"/> | `FormulaOne_Hamilton_3.jpg` |
-| <img src="futuristicAncientTree.png" width="300"/> | `futuristicAncientTree.png` | <img src="G5uBmitWkAAyk8s.jpg" width="300"/> | `G5uBmitWkAAyk8s.jpg` | <img src="grayscale_mountains.jpg" width="300"/> | `grayscale_mountains.jpg` |
-| <img src="hello-worlds.png" width="300"/> | `hello-worlds.png` | <img src="house-garden.png" width="300"/> | `house-garden.png` | <img src="ign_cityRain.png" width="300"/> | `ign_cityRain.png` |
-| <img src="ign_ferrari1.png" width="300"/> | `ign_ferrari1.png` | <img src="ign_sunset.png" width="300"/> | `ign_sunset.png` | <img src="ign_TokyoStreet-1.png" width="300"/> | `ign_TokyoStreet-1.png` |
-| <img src="joyboy.png" width="300"/> | `joyboy.png` | <img src="jupiter.png" width="300"/> | `jupiter.png` | <img src="kiryu_black.png" width="300"/> | `kiryu_black.png` |
-| <img src="minimal_landscape.jpg" width="300"/> | `minimal_landscape.jpg` | <img src="mountain.jpg" width="300"/> | `mountain.jpg` | <img src="my-neighbor-totoro-sunflowers.png" width="300"/> | `my-neighbor-totoro-sunflowers.png` |
+| <img src="coal.jpg" width="300"/> | `coal.jpg` | <img src="dexter_blood_spatter.jpg" width="300"/> | `dexter_blood_spatter.jpg` | <img src="explorer_green_day.jpg" width="300"/> | `explorer_green_day.jpg` |
+| <img src="FormulaOne_Hamilton_3.jpg" width="300"/> | `FormulaOne_Hamilton_3.jpg` | <img src="futuristicAncientTree.png" width="300"/> | `futuristicAncientTree.png` | <img src="G5uBmitWkAAyk8s.jpg" width="300"/> | `G5uBmitWkAAyk8s.jpg` |
+| <img src="grayscale_mountains.jpg" width="300"/> | `grayscale_mountains.jpg` | <img src="hello-worlds.png" width="300"/> | `hello-worlds.png` | <img src="house-garden.png" width="300"/> | `house-garden.png` |
+| <img src="ign_cityRain.png" width="300"/> | `ign_cityRain.png` | <img src="ign_ferrari1.png" width="300"/> | `ign_ferrari1.png` | <img src="ign_sunset.png" width="300"/> | `ign_sunset.png` |
+| <img src="ign_TokyoStreet-1.png" width="300"/> | `ign_TokyoStreet-1.png` | <img src="joyboy.png" width="300"/> | `joyboy.png` | <img src="jupiter.png" width="300"/> | `jupiter.png` |
+| <img src="kiryu_black.png" width="300"/> | `kiryu_black.png` | <img src="minimal_landscape.jpg" width="300"/> | `minimal_landscape.jpg` | <img src="minimum_invert.jpg" width="300"/> | `minimum_invert.jpg` |
+| <img src="minimum.jpg" width="300"/> | `minimum.jpg` | <img src="mountain.jpg" width="300"/> | `mountain.jpg` | <img src="my-neighbor-totoro-sunflowers.png" width="300"/> | `my-neighbor-totoro-sunflowers.png` |
 | <img src="night-mounts.png" width="300"/> | `night-mounts.png` | <img src="od_discovery.png" width="300"/> | `od_discovery.png` | <img src="od_space02.png" width="300"/> | `od_space02.png` |
 | <img src="onepiece.png" width="300"/> | `onepiece.png` | <img src="pink-clouds.png" width="300"/> | `pink-clouds.png` | <img src="pokemon_games_rooms_combined.png" width="300"/> | `pokemon_games_rooms_combined.png` |
 | <img src="pond_shed.png" width="300"/> | `pond_shed.png` | <img src="retro_market.png" width="300"/> | `retro_market.png` | <img src="rm-rf.jpg" width="300"/> | `rm-rf.jpg` |
@@ -29,4 +30,4 @@
 
 ---
 
-*auto-generated on 2026-06-07 10:41:26.*
+*auto-generated on 2026-06-07 17:45:20.*
