@@ -1,6 +1,6 @@
 # 🖼️ Wallpapers
 
-> A collection of **71** wallpapers.
+> A collection of **76** wallpapers.
 
 | Preview | Name | Preview | Name | Preview | Name |
 | :---: | :--- | :---: | :--- | :---: | :--- |
@@ -20,15 +20,17 @@
 | <img src="hello-worlds.png" width="300"/> | `hello-worlds.png` | <img src="house-garden.png" width="300"/> | `house-garden.png` | <img src="ign_cityRain.png" width="300"/> | `ign_cityRain.png` |
 | <img src="ign_ferrari1.png" width="300"/> | `ign_ferrari1.png` | <img src="ign_sunset.png" width="300"/> | `ign_sunset.png` | <img src="ign_TokyoStreet-1.png" width="300"/> | `ign_TokyoStreet-1.png` |
 | <img src="joyboy.png" width="300"/> | `joyboy.png` | <img src="jupiter.png" width="300"/> | `jupiter.png` | <img src="kiryu_black.png" width="300"/> | `kiryu_black.png` |
-| <img src="liquid_chrome_colors_invert.jpg" width="300"/> | `liquid_chrome_colors_invert.jpg` | <img src="liquid_chrome_colors.jpg" width="300"/> | `liquid_chrome_colors.jpg` | <img src="minimal_landscape.jpg" width="300"/> | `minimal_landscape.jpg` |
-| <img src="minimum_invert.jpg" width="300"/> | `minimum_invert.jpg` | <img src="minimum.jpg" width="300"/> | `minimum.jpg` | <img src="mountain.jpg" width="300"/> | `mountain.jpg` |
-| <img src="my-neighbor-totoro-sunflowers.png" width="300"/> | `my-neighbor-totoro-sunflowers.png` | <img src="night-mounts.png" width="300"/> | `night-mounts.png` | <img src="od_discovery.png" width="300"/> | `od_discovery.png` |
-| <img src="od_space02.png" width="300"/> | `od_space02.png` | <img src="onepiece.png" width="300"/> | `onepiece.png` | <img src="pink-clouds.png" width="300"/> | `pink-clouds.png` |
-| <img src="pokemon_games_rooms_combined.png" width="300"/> | `pokemon_games_rooms_combined.png` | <img src="pond_shed.png" width="300"/> | `pond_shed.png` | <img src="retro_market.png" width="300"/> | `retro_market.png` |
-| <img src="rm-rf.jpg" width="300"/> | `rm-rf.jpg` | <img src="routine.jpg" width="300"/> | `routine.jpg` | <img src="sonoma.jpeg" width="300"/> | `sonoma.jpeg` |
-| <img src="south_park_squared.jpg" width="300"/> | `south_park_squared.jpg` | <img src="tech.png" width="300"/> | `tech.png` | <img src="this-wallpaper-is-not-available.png" width="300"/> | `this-wallpaper-is-not-available.png` |
-| <img src="trigonometry.png" width="300"/> | `trigonometry.png` | <img src="ventura.jpg" width="300"/> | `ventura.jpg` | | |
+| <img src="kyjumnt_invert.png" width="300"/> | `kyjumnt_invert.png` | <img src="kyjumnt.png" width="300"/> | `kyjumnt.png` | <img src="liquid_chrome_colors_invert.jpg" width="300"/> | `liquid_chrome_colors_invert.jpg` |
+| <img src="liquid_chrome_colors.jpg" width="300"/> | `liquid_chrome_colors.jpg` | <img src="minimal_landscape.jpg" width="300"/> | `minimal_landscape.jpg` | <img src="minimum_invert.jpg" width="300"/> | `minimum_invert.jpg` |
+| <img src="minimum.jpg" width="300"/> | `minimum.jpg` | <img src="mountain.jpg" width="300"/> | `mountain.jpg` | <img src="my-neighbor-totoro-sunflowers.png" width="300"/> | `my-neighbor-totoro-sunflowers.png` |
+| <img src="night-mounts.png" width="300"/> | `night-mounts.png` | <img src="od_discovery.png" width="300"/> | `od_discovery.png` | <img src="od_space02.png" width="300"/> | `od_space02.png` |
+| <img src="onepiece.png" width="300"/> | `onepiece.png` | <img src="pink-clouds.png" width="300"/> | `pink-clouds.png` | <img src="pokemon_games_rooms_combined.png" width="300"/> | `pokemon_games_rooms_combined.png` |
+| <img src="pond_shed.png" width="300"/> | `pond_shed.png` | <img src="porsche.png" width="300"/> | `porsche.png` | <img src="retro_market.png" width="300"/> | `retro_market.png` |
+| <img src="rm-rf.jpg" width="300"/> | `rm-rf.jpg` | <img src="rosepine-window.png" width="300"/> | `rosepine-window.png` | <img src="routine.jpg" width="300"/> | `routine.jpg` |
+| <img src="sonoma.jpeg" width="300"/> | `sonoma.jpeg` | <img src="south_park_squared.jpg" width="300"/> | `south_park_squared.jpg` | <img src="tech.png" width="300"/> | `tech.png` |
+| <img src="this-wallpaper-is-not-available.png" width="300"/> | `this-wallpaper-is-not-available.png` | <img src="trigonometry.png" width="300"/> | `trigonometry.png` | <img src="ventura.jpg" width="300"/> | `ventura.jpg` |
+| <img src="wcatppmnt.png" width="300"/> | `wcatppmnt.png` | | | | |
 
 ---
 
-*auto-generated on 2026-06-07 17:54:15.*
+*auto-generated on 2026-06-15 19:33:16.*
