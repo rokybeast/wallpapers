@@ -1,6 +1,6 @@
 # 🖼️ Wallpapers
 
-> A collection of **82** wallpapers.
+> A collection of **95** wallpapers.
 
 | Preview | Name | Preview | Name | Preview | Name |
 | :---: | :--- | :---: | :--- | :---: | :--- |
@@ -18,21 +18,25 @@
 | <img src="circuits.png" width="300"/> | `circuits.png` | <img src="coal.jpg" width="300"/> | `coal.jpg` | <img src="dexter_blood_spatter.jpg" width="300"/> | `dexter_blood_spatter.jpg` |
 | <img src="escape_velocity.jpg" width="300"/> | `escape_velocity.jpg` | <img src="explorer_green_day.jpg" width="300"/> | `explorer_green_day.jpg` | <img src="FormulaOne_Hamilton_3.jpg" width="300"/> | `FormulaOne_Hamilton_3.jpg` |
 | <img src="futuristicAncientTree.png" width="300"/> | `futuristicAncientTree.png` | <img src="G5uBmitWkAAyk8s.jpg" width="300"/> | `G5uBmitWkAAyk8s.jpg` | <img src="grayscale_mountains.jpg" width="300"/> | `grayscale_mountains.jpg` |
-| <img src="hello-worlds.png" width="300"/> | `hello-worlds.png` | <img src="house-garden.png" width="300"/> | `house-garden.png` | <img src="ign_cityRain.png" width="300"/> | `ign_cityRain.png` |
-| <img src="ign_ferrari1.png" width="300"/> | `ign_ferrari1.png` | <img src="ign_sunset.png" width="300"/> | `ign_sunset.png` | <img src="ign_TokyoStreet-1.png" width="300"/> | `ign_TokyoStreet-1.png` |
-| <img src="joyboy.png" width="300"/> | `joyboy.png` | <img src="jupiter.png" width="300"/> | `jupiter.png` | <img src="kiryu_black.png" width="300"/> | `kiryu_black.png` |
-| <img src="kurzgesagt-like-quesar.png" width="300"/> | `kurzgesagt-like-quesar.png` | <img src="kyjumnt_invert.png" width="300"/> | `kyjumnt_invert.png` | <img src="kyjumnt.png" width="300"/> | `kyjumnt.png` |
-| <img src="lion_x.jpg" width="300"/> | `lion_x.jpg` | <img src="liquid_chrome_colors_invert.jpg" width="300"/> | `liquid_chrome_colors_invert.jpg` | <img src="liquid_chrome_colors.jpg" width="300"/> | `liquid_chrome_colors.jpg` |
-| <img src="minimal_landscape.jpg" width="300"/> | `minimal_landscape.jpg` | <img src="minimum_invert.jpg" width="300"/> | `minimum_invert.jpg` | <img src="minimum.jpg" width="300"/> | `minimum.jpg` |
+| <img src="great-wave-of-kanagawa-gruvbox.png" width="300"/> | `great-wave-of-kanagawa-gruvbox.png` | <img src="gruvbox_forest.png" width="300"/> | `gruvbox_forest.png` | <img src="gruvbox_pixel.png" width="300"/> | `gruvbox_pixel.png` |
+| <img src="gruv-kanji.png" width="300"/> | `gruv-kanji.png` | <img src="hello-worlds.png" width="300"/> | `hello-worlds.png` | <img src="house-garden.png" width="300"/> | `house-garden.png` |
+| <img src="ign_cityRain.png" width="300"/> | `ign_cityRain.png` | <img src="ign_ferrari1.png" width="300"/> | `ign_ferrari1.png` | <img src="ign_sunset.png" width="300"/> | `ign_sunset.png` |
+| <img src="ign_TokyoStreet-1.png" width="300"/> | `ign_TokyoStreet-1.png` | <img src="joyboy.png" width="300"/> | `joyboy.png` | <img src="jupiter.png" width="300"/> | `jupiter.png` |
+| <img src="kiryu_black.png" width="300"/> | `kiryu_black.png` | <img src="kurzgesagt-like-quesar.png" width="300"/> | `kurzgesagt-like-quesar.png` | <img src="kyjumnt_invert.png" width="300"/> | `kyjumnt_invert.png` |
+| <img src="kyjumnt.png" width="300"/> | `kyjumnt.png` | <img src="lion_x.jpg" width="300"/> | `lion_x.jpg` | <img src="liquid_chrome_colors_invert.jpg" width="300"/> | `liquid_chrome_colors_invert.jpg` |
+| <img src="liquid_chrome_colors.jpg" width="300"/> | `liquid_chrome_colors.jpg` | <img src="mega-charizard-rainbow-lantern.png" width="300"/> | `mega-charizard-rainbow-lantern.png` | <img src="minimal_landscape.jpg" width="300"/> | `minimal_landscape.jpg` |
+| <img src="minimum_invert.jpg" width="300"/> | `minimum_invert.jpg` | <img src="minimum.jpg" width="300"/> | `minimum.jpg` | <img src="mojave_minimal.png" width="300"/> | `mojave_minimal.png` |
 | <img src="mountain.jpg" width="300"/> | `mountain.jpg` | <img src="my-neighbor-totoro-sunflowers.png" width="300"/> | `my-neighbor-totoro-sunflowers.png` | <img src="night-mounts.png" width="300"/> | `night-mounts.png` |
-| <img src="od_discovery.png" width="300"/> | `od_discovery.png` | <img src="od_space02.png" width="300"/> | `od_space02.png` | <img src="onepiece.png" width="300"/> | `onepiece.png` |
-| <img src="pink-clouds.png" width="300"/> | `pink-clouds.png` | <img src="pokemon_games_rooms_combined.png" width="300"/> | `pokemon_games_rooms_combined.png` | <img src="pond_shed.png" width="300"/> | `pond_shed.png` |
-| <img src="porsche.png" width="300"/> | `porsche.png` | <img src="retro_market.png" width="300"/> | `retro_market.png` | <img src="rm-rf.jpg" width="300"/> | `rm-rf.jpg` |
-| <img src="rosepine-window.png" width="300"/> | `rosepine-window.png` | <img src="routine.jpg" width="300"/> | `routine.jpg` | <img src="solitude.png" width="300"/> | `solitude.png` |
-| <img src="sonoma.jpeg" width="300"/> | `sonoma.jpeg` | <img src="south_park_squared.jpg" width="300"/> | `south_park_squared.jpg` | <img src="tech.png" width="300"/> | `tech.png` |
-| <img src="this-wallpaper-is-not-available.png" width="300"/> | `this-wallpaper-is-not-available.png` | <img src="trigonometry.png" width="300"/> | `trigonometry.png` | <img src="ventura.jpg" width="300"/> | `ventura.jpg` |
-| <img src="wcatppmnt.png" width="300"/> | `wcatppmnt.png` | | | | |
+| <img src="nord-poly.jpg" width="300"/> | `nord-poly.jpg` | <img src="nord-qsave-1.png" width="300"/> | `nord-qsave-1.png` | <img src="od_discovery.png" width="300"/> | `od_discovery.png` |
+| <img src="od_space02.png" width="300"/> | `od_space02.png` | <img src="onepiece.png" width="300"/> | `onepiece.png` | <img src="pink-clouds.png" width="300"/> | `pink-clouds.png` |
+| <img src="pixel_forest.png" width="300"/> | `pixel_forest.png` | <img src="pokemon_games_rooms_combined.png" width="300"/> | `pokemon_games_rooms_combined.png` | <img src="polyscape_2.png" width="300"/> | `polyscape_2.png` |
+| <img src="pond_shed.png" width="300"/> | `pond_shed.png` | <img src="porsche.png" width="300"/> | `porsche.png` | <img src="retro_market.png" width="300"/> | `retro_market.png` |
+| <img src="rm-rf.jpg" width="300"/> | `rm-rf.jpg` | <img src="rosepine-window.png" width="300"/> | `rosepine-window.png` | <img src="routine.jpg" width="300"/> | `routine.jpg` |
+| <img src="solitude.png" width="300"/> | `solitude.png` | <img src="sonoma.jpeg" width="300"/> | `sonoma.jpeg` | <img src="south_park_squared.jpg" width="300"/> | `south_park_squared.jpg` |
+| <img src="streetlights.png" width="300"/> | `streetlights.png` | <img src="tech.png" width="300"/> | `tech.png` | <img src="this-wallpaper-is-not-available.png" width="300"/> | `this-wallpaper-is-not-available.png` |
+| <img src="trigonometry.png" width="300"/> | `trigonometry.png` | <img src="ventura.jpg" width="300"/> | `ventura.jpg` | <img src="waterfall_everforest.png" width="300"/> | `waterfall_everforest.png` |
+| <img src="wcatppmnt.png" width="300"/> | `wcatppmnt.png` | <img src="winxp_pixel.png" width="300"/> | `winxp_pixel.png` | | |
 
 ---
 
-*auto-generated on 2026-06-15 19:45:54.*
+*auto-generated on 2026-06-28 17:31:10.*
